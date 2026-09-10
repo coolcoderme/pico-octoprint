@@ -1,0 +1,7 @@
+src/config.py
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.swp
