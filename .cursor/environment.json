@@ -1,0 +1,4 @@
+{
+  "name": "pico-octoprint",
+  "install": ".cursor/install.sh"
+}
